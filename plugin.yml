@@ -1,0 +1,11 @@
+name: RandomEffect
+main: whitejing\randomeffect\RandomEffect
+version: 1.0.0
+author: WhiteJing
+api:
+- 3.1.4
+
+permissions:
+  random.effect.use:
+    description: 랜덤 버프 퍼미션
+    default: true

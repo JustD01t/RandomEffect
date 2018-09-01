@@ -4,5 +4,5 @@
 # 플러그인 사용법
 /랜덤버프
 
-#라이센스
+# 라이센스
 GNU General Public License v3.0
